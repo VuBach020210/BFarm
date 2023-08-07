@@ -1,0 +1,4 @@
+name: protectfield
+version: '${project.version}'
+main: org.bachvb.protectfield.Protectfield
+api-version: '1.19'
